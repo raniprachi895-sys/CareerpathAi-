@@ -29,6 +29,14 @@ Google AI Studio, Gemini 2.5, Vercel, React, Tailwind CSS
 ![Home Page](screenshot1.png)
 ![AI Quiz](screenshot2.png)
 ![Career Results](screenshot3.png)
+### Home Page
+![Home Page](IMG-20260727-WA0001.jpg)
+
+### AI Quiz
+![AI Quiz](Screenshot_20260727-102910.jpg)
+
+### Career Results
+![Career Results](Screenshot_20260727-102915.jpg)
 
 ## 7. How to Run Locally
 1. git clone <repo-link>
