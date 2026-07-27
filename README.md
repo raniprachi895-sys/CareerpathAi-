@@ -29,11 +29,19 @@ Google AI Studio, Gemini 2.5, Vercel, React, Tailwind CSS
 ![Home Page](screenshot1.png)
 ![AI Quiz](screenshot2.png)
 ![Career Results](screenshot3.png)
-### Home Page
-![Home Page](IMG-20260727-WA0001.jpg)
+## 6. Screenshots
 
-### AI Quiz
-![AI Quiz](Screenshot_20260727-102910.jpg)
+### Home Page / AI Quiz
+![Home Page](IMG-20260727-WA0403.jpg)
+
+### Career Results 1
+![Career Results 1](Screenshot_20260727-231404.jpg)
+
+### Career Results 2
+![Career Results 2](Screenshot_20260727-231409.jpg)
+
+### Vercel Deploy
+![Vercel Deploy](Screenshot_20260727-231417.jpg)
 
 ### Career Results
 ![Career Results](Screenshot_20260727-102915.jpg)
